@@ -1,0 +1,3 @@
+football-servcie:
+  ribbon:
+    listOfServers: https://apiv2.apifootball.com
